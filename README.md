@@ -3,7 +3,6 @@
   <img align="center" alt"Brazil-Icon" height="35" width="35" src="https://cdn3.iconfinder.com/data/icons/world-flags-flat-and-vectorised/62/brazil-256.png">
   <img align="center" alt"United-Kingdom-Icon" height="35" width="35" src="https://cdn4.iconfinder.com/data/icons/world-flags-rounded/900/uk_united_kingdom_britain_british_flag-256.png">
   <img align="center" alt"Japan-Icon" height="40" width="35" src="https://cdn1.iconfinder.com/data/icons/flags-free/64/Flags_Flag_Country_National_Symbol_Japan-256.png">
-  rounded/900/france_french_national_country_flag-256.png">
 </h1>
 
   

@@ -11,8 +11,8 @@
 - 🔭 Atualmente estou cursando Ciência da computação na UFABC
 - 🌱 Estou aprendendo Java, Python e JavaScript
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Gosto muito de línguas, não só programação, atualmente estudo Japonês, Inglês e Francês
-
+- ⚡ Fun fact: Gosto muito de línguas, não só programação, atualmente estudo Japonês e Inglês
+ 
 <div align="center">
   <a href="https://github.com/PedroHenriquedp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquedp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,12 +22,17 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="PedroDP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PedroDP-Sp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="PedroDP-JV" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="PedroDP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PedroDP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PedroDP-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="PedroDP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PedroDP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PedroDP-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="PedroDP-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="PedroDP-Fast" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="PedroDP-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="PedroDP-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="PedroDP-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+
+
 </div>
   
   ##

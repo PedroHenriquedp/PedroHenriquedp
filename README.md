@@ -8,10 +8,10 @@
   
 <h2>Hiii me chamo Pedro Henrique, e estou focado em aprender conteúdos de programação!!!</h2>
 
-- 🔭 Atualmente estou cursando Ciência da computação na UFABC
-- 🌱 Estou aprendendo Java, Python e JavaScript
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Gosto muito de línguas, não só programação, atualmente estudo Japonês e Inglês
+- 🔭 Atualmente estou cursando Ciência da Computação & Ciência de Dados na UFABC
+- 🌱 Apaixonado por Java, Python e JavaScript
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fun fact: Gosto muito de linguagens, não só programação, atualmente estudo Japonês e Inglês
  
 <div align="center">
   <a href="https://github.com/PedroHenriquedp">
